@@ -1,5 +1,6 @@
 import './App.css'
 import Card from './Components/Card'
+import Counter from './Components/Counter' 
 
 const alt = "cat-image"
 
@@ -23,6 +24,7 @@ function App() {
         alt={alt}
         text={"Gato 3"}
       />
+      <Counter />
     </>
   )
 }
