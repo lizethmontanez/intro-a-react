@@ -9,6 +9,8 @@ import FocusInput from './Components/FocusInput'
 import Parent from './Components/useCallbackExample'
 import ContadorReducer from './Components/ContadorReducer'
 import { useState } from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+
 
 const alt = "cat-image"
 
